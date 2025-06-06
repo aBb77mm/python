@@ -1,4 +1,4 @@
-
+print()
 import asyncio
 import aiohttp  # Requires installing: pip install aiohttp
 from random import randint
