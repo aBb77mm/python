@@ -18,9 +18,9 @@ async def main():
     """Creates an aiohttp session and fetches multiple URLs concurrently."""
     urls = list()
     apis =[
-        "0VjwHqSWshKwkOKKy4evN6ENuS6dgPmU","89lIchVLjxRtccX6YE3fIfHUtAWXhjSK"]
+        "FSY3fJiZt10wqvlWnl6Xr2NKCUta6Ubo","MXvKQSip6ziRJYvK5CUE9hrzws5Wovgq"]
     ad="https://www.profitableratecpm.com/hu0gyxudb4?key=89ba7fc61b7c3365980e417c28adcd2f"
-    ad ="https://viinnqwx.com/dc/?blockID=382412"
+    ad ="https://viidedss.com/dc/?blockID=382755"
     for api in apis:
         for _ in range(randint (3,5)):
             url = f"https://api.webscrapingapi.com/v2?api_key={api}&url={ad}&country=us&render_js=1"
